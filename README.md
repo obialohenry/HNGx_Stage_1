@@ -1,16 +1,24 @@
-# hngx_stage_1
+# HNGx_Stage_1
 
-A new Flutter project.
+## Description
+This project is the UI for the first stage of my internship. It showcases my picture, username, and a button that links to my GitHub profile.
+
+## Table of Contents
+- Description
+- Getting Started
+- Assumptions
+- Usage
 
 ## Getting Started
+Follow these steps to run the project locally:
+1. Clone this repository.
+2. Open the project in your preffered editor.
 
-This project is a starting point for a Flutter application.
+## Assumptions
+This project assumes that I have a basic understanding of flutter and dart programming.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Usage
+- Launch the app.
+- You will see my picture and user name on the screen.
+- Click the "GitHub Profile" button to visit my GitHub profile.
+- To see my code on github go to the master branch,cause it is on the default branch being the main branch.
