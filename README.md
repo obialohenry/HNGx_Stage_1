@@ -21,3 +21,4 @@ This project assumes that I have a basic understanding of flutter and dart progr
 - Launch the app.
 - You will see my picture and user name on the screen.
 - Click the "GitHub Profile" button to visit my GitHub profile.
+- To see my code on github go to the master branch,cause it is on the default branch being the main branch.
